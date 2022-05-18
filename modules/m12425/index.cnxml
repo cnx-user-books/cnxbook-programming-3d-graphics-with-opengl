@@ -1,0 +1,14 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Introduction to Programming 3D Graphics in OpenGL</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e349989a-acb3-4041-9d80-4ebbedcccc93</md:uuid>
+</metadata>
+
+  <content>
+    <para id="first">
+       The eight tutorials below are a representative sampling of the necessary algorithms for programming realistic 3D virtual worlds in OpenGL C++. Each tutorial includes a brief description, commented sample C++ code, and an executable demo.  </para> <para id="second">
+To run the executables, you may need the file opengl32.dll , and to compile the source files, you will need the GL, GLU, and GLUT header files. All of these are included on the CD that accompanies Wright and Sweet's OpenGL SuperBible (2000, Waite Group Press). They can also be found through <link url="http://www.opengl.org">http://www.opengl.org</link> online. Click on the provided <link resource="gradproj.zip">file link</link> to download the entire tutorial and all source/executables as a single ZIP file (1.34 MB).  
+
+    </para>   
+  </content>
+  
+</document>
